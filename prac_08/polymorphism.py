@@ -46,6 +46,6 @@ def choose_taxi(total_bill):
 
 def list_taxis():
     for i, taxi in enumerate(taxis):
-        print("{} - {}".format(i, taxi.__str__()))
+        print("{} - {}".format(i, taxi))
 
 main()

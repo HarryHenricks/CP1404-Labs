@@ -19,7 +19,4 @@ def main():
     print("Limo's odometer is {}".format(my_limo.odometer))
 
 
-    __str__()
-
-
 main()
